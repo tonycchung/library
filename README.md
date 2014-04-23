@@ -6,3 +6,6 @@ Note: this should *not* be a Rails app - just a single file with three classes (
 
 In addition to pushing this ruby file to your Github account, please also setup a http://rubyfiddle.com/ (so it runs).
 
+http://rubyfiddle.com/riddles/05174
+
+Cannot get script to run in rubyfiddle.
